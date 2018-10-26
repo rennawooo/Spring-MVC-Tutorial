@@ -1,3 +1,4 @@
-/classes/
-/target/
-/.settings//.project/
+classes
+target
+.settings/
+.project
